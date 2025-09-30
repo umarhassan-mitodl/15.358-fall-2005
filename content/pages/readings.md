@@ -23,7 +23,7 @@ Selected articles and excerpts.
 
 ## Recommended Supplementary Readings
 
-![Buy at MIT Press](/images/mp_logo.gif) Campbell-Kelly, Martin. {{% resource_link "f6c53ef7-1f89-47c0-acb0-5f5885381c64" "*A History of the Software Industry: From Airline Reservations to Sonic the Hedgehog*" %}}. Cambridge, MA: MIT Press, 2003. ISBN: 0262033038.
+![Buy at MIT Press](/images/mp_logo.gif) Campbell-Kelly, Martin. [*A History of the Software Industry: From Airline Reservations to Sonic the Hedgehog*](https://mitpress.mit.edu/books/airline-reservations-sonic-hedgehog). Cambridge, MA: MIT Press, 2003. ISBN: 0262033038.
 
 McConnell, Steve. *Rapid Development*. Redmond, WA: Microsoft Press, 1996. ISBN: 1556159005.
 
@@ -169,7 +169,7 @@ Guest Lecturer: Professor Alan MacCormack, Harvard Business School
 
 Cusumano. *The Business of Software*. Pp. 120-125.
 
-Raymond, Eric. "{{% resource_link "455f47c9-c4cf-4f3e-b574-a6d28c4df8b7" "The Cathedral and the Bazaar" %}}." (Original article.)
+Raymond, Eric. "[The Cathedral and the Bazaar](http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/index.html)." (Original article.)
 
 Fuggetta, Alfonso. "Open Source and Free Software: A New Model for Software Development?" Unpublished paper, Politecnico di Milano, July 2004.
 

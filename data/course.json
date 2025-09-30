@@ -35,6 +35,7 @@
     "website": "15-358-the-software-business-fall-2005"
   },
   "course_title": "The Software Business",
+  "hide_download": true,
   "course_description": "This subject is a seminar-style course aimed at anyone who is interested in founding a software company or working for a software company or company that uses software technology extensively as a senior manager, developer, or product/program manager. It is also appropriate for people interested in the industry or in working as an industry analyst. Many of the issues we discuss are highly relevant for companies whose businesses are heavily dependent on software, such as in e-business or financial services, or embedded software for industrial applications.\n",
   "department_numbers": [
     "15"
@@ -45,6 +46,7 @@
     "content": "2d687ec8-c407-9309-9807-778e2d02c836",
     "website": "15-358-the-software-business-fall-2005"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Written Assignments"
   ],
