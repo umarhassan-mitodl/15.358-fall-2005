@@ -4,8 +4,6 @@ description: Photo of a computer on a desk.
 file: /courses/15-358-the-software-business-fall-2005/2fcc07d34da665697687ae7846519384_chp_computer.jpg
 file_size: 48509
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''
